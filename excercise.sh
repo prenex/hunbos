@@ -15,8 +15,10 @@ else
 	vim "$1.tmp"
 	# Calculate and show differences
 	read -p "Nyomd meg az entert a kiértékeléshez(vimdiff)..."
-	sort "$1" > "$1.sorted"
-	sort "$1.tmp" > "$1.tmp.sorted"
+	echo "Helyes válaszok:" > "$1.sorted"; echo "" >> "$1.sorted"
+	echo "Saját válaszok:" > "$1.tmp.sorted"; echo "" >> "$1.tmp.sorted"
+	sort "$1" | sed '/^|.*$/d' | sed '/^\s*$/d' >> "$1.sorted"
+	sort "$1.tmp" >> "$1.tmp.sorted"
 	vimdiff "$1.sorted" "$1.tmp.sorted"
 	# Cleanup
 	rm "$1.tmp"
