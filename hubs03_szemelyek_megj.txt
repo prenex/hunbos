@@ -62,4 +62,5 @@ három | tri
 
 | Birtokos?
 enyém | moja
+tied | twoja
 
