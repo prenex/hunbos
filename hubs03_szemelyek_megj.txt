@@ -56,7 +56,7 @@ férfi | muškarac
 nő | žena
 gyerek | dijete
 család | porodica
-egy(1) | jeden
+egy(1) | jedan
 kettő | dva
 három | tri
 
