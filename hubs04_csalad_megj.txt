@@ -1,0 +1,47 @@
+| Megj.: Ez a fájl is használható az excercise.sh scripttel!
+
+a nagyapa | djed
+a nagymama | nana / nena
+az apa | otac
+az anya | majka
+a fiú (valakinek a fia) | sin
+a lány (valakinek a lánya) | kćerka
+a fiútestvér | brat
+a leánytestvér | sestra
+a nagybácsi | daižda ("daidzsa")
+a nagynéni | tetka
+ő (a férfi / fiú) és ő (a nő / lány) | on i ona
+Mi egy család vagyunk. | Mi smo porodica.
+A család nem kicsi. | Porodica nije mala.
+A család nagy. | Porodica je velika.
+
+| *******************
+| Saját megjegyzések:
+| *******************
+
+igazolás (pl. melléknév előtt) | je
+tagadás (pl. melléknév előtt) | nije
+
+kicsi | mala
+nagy | velika
+
+| *******************
+| Amra kiegészítések:
+| *******************
+
+| A női nem miatt -a végődést kapnak a dolgok, lásd moj és moja:
+
+tied(nő) | tvoja
+tied(férfi) | tvoja
+
+hogy | da
+okos | pametni
+
+okos telefon | pametni telefon
+Örülök, hogy a bátyád is jól van | Drago mi je da je tvoj brat dobro
+
+Az anyukád Gyöngyvér | tvoja mama Gyongyver
+Az apukád István | tvoj otac Istvan
+A drága csinos nagymamád Mária | tvoja draga slatka majka Maria
+A te okos és jó papád István | tvoj pametni i dobri djed Istvan
+A drága testvéred Roland | tvoj dragi brat Roland
