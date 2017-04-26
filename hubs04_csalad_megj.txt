@@ -32,7 +32,7 @@ nagy | velika
 | A női nem miatt -a végődést kapnak a dolgok, lásd moj és moja:
 
 tied(nő) | tvoja
-tied(férfi) | tvoja
+tied(férfi) | tvoj
 
 hogy | da
 okos | pametni
