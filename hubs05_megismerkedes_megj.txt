@@ -1,0 +1,55 @@
+| Megj.: Ez a fájl is használható az excercise.sh scripttel!
+
+Szia! | Zdravo!
+Jó napot! | Dobar dan!
+Hogy vagy? | Kako ste?
+Ön Európából jön? / Ön európai? | Jeste li Vi iz Evrope?
+Ön Amerikából jön? / Ön amerikai? | Jeste li Vi iz Amerike?
+Ön Ázsiából jön? / Ön ázsiai? | Jeste li Vi iz Azije?
+Melyik hotelben lakik? | U kojem hotelu ste smješteni?
+
+Mióta van már itt? | Koliko dugo ste već ovdje?
+Meddig marad? | Koliko dugo ostajete?
+Tetszik önnek itt? | Dopada li Vam se ovdje?
+
+| "Jött ön itt/ide az éves nyaralásra?"
+Ön itt nyaral? | Jeste li ovdje na godišnjem odmoru?
+Látogasson meg egyszer! | Posjetite me jednom!
+Itt van az én címem. | Ovo je moja adresa.
+Látjuk egymást holnap? | Hoćemo li se sutra vidjeti?
+Sajnálom, már más tervem van. | Žao mi je, imam već sutra nešto dogovoreno.
+Szia! / Viszlát! (Vigyázat! / Csak elköszönésnél!) | Ćao!
+Viszontlátásra! | Doviđenja!
+Nemsokára találkozunk! / A közeli viszontlátásra! | Do uskoro!
+    
+| *******************
+| Saját megjegyzések:
+| *******************
+| TODO: ez nem egyszerű téma már: a továbbiakat is értelmezni kellene... :-)
+
+| - A jó napot az kvázi náluk is pont ezt jelenti (dan = nap és dobro = jó)
+| - Érdekes ez a "Jeste" kifejezés. Ezt magyarul is majdnem értem: "Jösszte"
+
+| -tól, -től, de úgy néz ki (lásd fent), -ból, -ből végződés helyetti prefix szó?
+-tól, -től, -ból, -ből | iz / od(???)
+
+a, az | na (itt legalábbis)
+
+évi / éves | godišnjem
+az évi | az éves | na godišnjem
+
+tenger | moru
+
+| - érdekes, de a nyaralást úgy látszik "tengerezésnek" hívják
+|   feltételezem ezt jelenti az odmoru.
+ünnep / nyaralás / szabadság | odmoru
+
+| - Sokszor v-betűs kötőszóval, mint "li Vi", vagy "li Vam"
+ön | li
+
+egyszer | jednom
+
+| - ovdje je gondolom furán hangozna - lehet hogy ők se szeretik a szóismétlést?
+itt van | ovo je
+
+cím | adresa
