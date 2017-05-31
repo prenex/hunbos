@@ -25,13 +25,26 @@ Nemsokára találkozunk! / A közeli viszontlátásra! | Do uskoro!
 | *******************
 | Saját megjegyzések:
 | *******************
+| FORRÁS: online Bosnyák-Angol szótár: http://ba.rjecnik.com/logindict.cgi
 | TODO: ez nem egyszerű téma már: a továbbiakat is értelmezni kellene... :-)
 
 | - A jó napot az kvázi náluk is pont ezt jelenti (dan = nap és dobro = jó)
 | - Érdekes ez a "Jeste" kifejezés. Ezt magyarul is majdnem értem: "Jösszte"
+|   Viszont úgy látom, hogy a "Je" és a "ste" összeolvasásaként kell érteni.
+|   tehát egyben mondom kicsit, hogy "van" és hogy "te/ti".
+
+| Ki kellene deríteni, hogy a Kako si és Kako ste különbözőek-e!?
+| A tananyagban amit nézek "Kako ste?" = "Hogy vagy?". Nekem úgy néz most ki, 
+| mintha azt jelentené: "Hogy vagytok?" - ez viszont nagy különbség!!!
+Hogy vagy? (!tipp!) | Kako si?
+Hogy vagytok? (!tipp!) | Kako ste?
 
 | -tól, -től, de úgy néz ki (lásd fent), -ból, -ből végződés helyetti prefix szó?
--tól, -től, -ból, -ből | iz / od(???)
+| Megj.: A Magyar "űz" szóval tűnik rokonnak. Nem csak célként, de forrásként is használják.
+-tól, -től, -ból, -ből, -valahonnan | iz / od(???)
+
+| ellenőrízendő ez is...
+-ra, -re | do (?)
 
 a, az | na (itt legalábbis)
 
@@ -45,7 +58,7 @@ tenger | moru
 ünnep / nyaralás / szabadság | odmoru
 
 | - Sokszor v-betűs kötőszóval, mint "li Vi", vagy "li Vam"
-ön | li
+ön | li (vi/vam?)
 
 egyszer | jednom
 
@@ -53,3 +66,11 @@ egyszer | jednom
 itt van | ovo je
 
 cím | adresa
+
+| *********
+| Szótárból
+| *********
+
+igen | da
+nem | ne / ni
+nincs | nema
