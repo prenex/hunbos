@@ -32,6 +32,7 @@ Nemsokára találkozunk! / A közeli viszontlátásra! | Do uskoro!
 | - Érdekes ez a "Jeste" kifejezés. Ezt magyarul is majdnem értem: "Jösszte"
 |   Viszont úgy látom, hogy a "Je" és a "ste" összeolvasásaként kell érteni.
 |   tehát egyben mondom kicsit, hogy "van" és hogy "te/ti".
+| Amra: Kb. Jeste = are - ha a mondat elején áll a kérdésnél angolban kb.
 
 | Ki kellene deríteni, hogy a Kako si és Kako ste különbözőek-e!?
 | A tananyagban amit nézek "Kako ste?" = "Hogy vagy?". Nekem úgy néz most ki, 
@@ -41,12 +42,38 @@ Hogy vagytok? (!tipp!) | Kako ste?
 
 | -tól, -től, de úgy néz ki (lásd fent), -ból, -ből végződés helyetti prefix szó?
 | Megj.: A Magyar "űz" szóval tűnik rokonnak. Nem csak célként, de forrásként is használják.
--tól, -től, -ból, -ből, -valahonnan | iz / od(???)
+-onnan, -tól, -től, -ból, -ből, -valahonnan | iz / od(???)
+
+-oda | za
 
 | ellenőrízendő ez is...
 -ra, -re | do (?)
 
 a, az | na (itt legalábbis)
+
+| Amra megerősítette:
+| Megj.: Kako ste-t lehet egyszemélyre is használni, ha formális akarok lenni. Ez olyan akkor mint a németben a "sie": sind sie gut?
+Hogy vagytok? | Kako ste?
+Hogy vagy? | Kako si?
+Jól vagyunk. | Dobro smo.
+Jól vagyok. | Dobro sam (??? Ez nem derült ki, csak sejtem!!!)
+
+Egészségedre | nazravlje
+
+-ra, -re | na
+
+Egészség | zravlje
+
+Magyarországból jövök | Ja sam iz Madjarske
+
+| za esetén a végződés sku - iz esetén ske (lásd példák itt)
+Most/idén én és Amra megyünk Nagyarországra. | Sad idemo ja i Amra za Madjarsku
+
+Megyünk / utazunk | idemo
+
+Megyek / utazok | idem
+
+Norvégiából jössz? | Jeste li vi iz Norveske?
 
 évi / éves | godišnjem
 az évi | az éves | na godišnjem
