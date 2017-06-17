@@ -1,0 +1,41 @@
+nap|sunce
+eső|kise
+hideg|zime (zsime)
+
+esett|ima kise
+nem esett|nyema kisa
+
+Neki van(ffi)|on ima
+Neki van(nő)|ona ima
+
+A Macska a garázsban van|Macska je u Garazsi
+Otthon vagyok|Ja sam u Kuc
+Szép|ljepa/ljep
+szép vagy(ffi)| ti si ljep 
+Szép vagy (nő)| ti si ljepa
+
+Jó|fino
+
+Büdös|smerdy
+
+nedostjes mi|hiányzol
+Gyerünk nézzünk Boriszt|hajmo gledati borisa
+
+Gyerünk (te)|hajde
+
+Gyerünk aludni (te)|Hajde san!
+Szép álmokat|ljepo sanjaj
+
+A családodnak szép háza van|Twoja porodica ima fino kuc
+
+lot|puno
+Nagyon köszönöm Amra|hvala puno Amra
+Időjárás|weather
+
+Hó|sjeg
+
+felhő|oblak
+felhős|oblacno
+napos|sunceno
+esős|kisno
+
