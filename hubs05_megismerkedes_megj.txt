@@ -2,21 +2,37 @@
 
 Szia! | Zdravo!
 Jó napot! | Dobar dan!
-Hogy vagy? | Kako ste?
+Hogy vagy? | Kako si?
 Ön Európából jön? / Ön európai? | Jeste li Vi iz Evrope?
 Ön Amerikából jön? / Ön amerikai? | Jeste li Vi iz Amerike?
 Ön Ázsiából jön? / Ön ázsiai? | Jeste li Vi iz Azije?
 Melyik hotelben lakik? | U kojem hotelu ste smješteni?
 
+Meddig/Mióta | Koliko dugo
 Mióta van már itt? | Koliko dugo ste već ovdje?
+Maradsz | ostajete
+Maradok | ostajesam
+Maradunk | ostajemo
 Meddig marad? | Koliko dugo ostajete?
-Tetszik önnek itt? | Dopada li Vam se ovdje?
+Meddig maradunk? | Koliko dugo ostajemo?
+Tetszik, szeret | Dopada
+Tetszik önnek itt? (Szeretsz itt lenni?) | Dopada li Vam se ovdje?
 
 | "Jött ön itt/ide az éves nyaralásra?"
 Ön itt nyaral? | Jeste li ovdje na godišnjem odmoru?
+Látogat | posjetite
 Látogasson meg egyszer! | Posjetite me jednom!
 Itt van az én címem. | Ovo je moja adresa.
+Fogjuk? | Hoćemo
+Holnap | sutra
+Lát/Látni/nézd! | vidjeti
 Látjuk egymást holnap? | Hoćemo li se sutra vidjeti?
+Sajnálom, ... |  Žao mi je, ...
+Már | već
+<I have>(birtokos) | imam
+<You have>(birtokos) | ti imas
+<He has>(birtokos) | on ima
+Valami | nešto
 Sajnálom, már más tervem van. | Žao mi je, imam već sutra nešto dogovoreno.
 Szia! / Viszlát! (Vigyázat! / Csak elköszönésnél!) | Ćao!
 Viszontlátásra! | Doviđenja!
@@ -37,8 +53,10 @@ Nemsokára találkozunk! / A közeli viszontlátásra! | Do uskoro!
 | Ki kellene deríteni, hogy a Kako si és Kako ste különbözőek-e!?
 | A tananyagban amit nézek "Kako ste?" = "Hogy vagy?". Nekem úgy néz most ki, 
 | mintha azt jelentené: "Hogy vagytok?" - ez viszont nagy különbség!!!
-Hogy vagy? (!tipp!) | Kako si?
+| Amra megerősítette:
+| Megj.: Kako ste-t lehet egyszemélyre is használni, ha formális akarok lenni. Ez olyan akkor mint a németben a "sie": sind sie gut?
 Hogy vagytok? (!tipp!) | Kako ste?
+Hogy vagy? (formális) | Kako ste?
 
 | -tól, -től, de úgy néz ki (lásd fent), -ból, -ből végződés helyetti prefix szó?
 | Megj.: A Magyar "űz" szóval tűnik rokonnak. Nem csak célként, de forrásként is használják.
@@ -51,10 +69,6 @@ Hogy vagytok? (!tipp!) | Kako ste?
 
 a, az | na (itt legalábbis)
 
-| Amra megerősítette:
-| Megj.: Kako ste-t lehet egyszemélyre is használni, ha formális akarok lenni. Ez olyan akkor mint a németben a "sie": sind sie gut?
-Hogy vagytok? | Kako ste?
-Hogy vagy? | Kako si?
 Jól vagyunk. | Dobro smo.
 Jól vagyok. | Dobro sam (??? Ez nem derült ki, csak sejtem!!!)
 
@@ -66,6 +80,7 @@ Egészség | zravlje
 
 Magyarországból jövök | Ja sam iz Madjarske
 
+Most | Sad
 | za esetén a végződés sku - iz esetén ske (lásd példák itt)
 Most/idén én és Amra megyünk Nagyarországra. | Sad idemo ja i Amra za Madjarsku
 
