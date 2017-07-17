@@ -26,12 +26,12 @@ Itt van az én címem. | Ovo je moja adresa.
 Fogjuk? | Hoćemo
 Holnap | sutra
 Lát/Látni/nézd! | vidjeti
-Látjuk egymást holnap? | Hoćemo li se sutra vidjeti?
+Látjuk egymást holnap? (~Fogjuk egymást holnap látni?) | Hoćemo li se sutra vidjeti?
 Sajnálom, ... |  Žao mi je, ...
 Már | već
-<I have>(birtokos) | imam
-<You have>(birtokos) | ti imas
-<He has>(birtokos) | on ima
+Nekem van <I have>(birtokos) | imam
+Önnek/neked van <You have>(birtokos) | ti imas
+Neki van <He has>(birtokos) | on ima
 Valami | nešto
 Sajnálom, már más tervem van. | Žao mi je, imam već sutra nešto dogovoreno.
 Szia! / Viszlát! (Vigyázat! / Csak elköszönésnél!) | Ćao!
