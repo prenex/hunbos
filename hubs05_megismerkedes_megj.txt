@@ -15,7 +15,7 @@ Maradok | ostajesam
 Maradunk | ostajemo
 Meddig marad? | Koliko dugo ostajete?
 Meddig maradunk? | Koliko dugo ostajemo?
-Tetszik, szeret | Dopada
+Tetszik, szeret | Dopada (lásd: dopamin)
 Tetszik önnek itt? (Szeretsz itt lenni?) | Dopada li Vam se ovdje?
 
 | "Jött ön itt/ide az éves nyaralásra?"
@@ -24,8 +24,12 @@ Látogat | posjetite
 Látogasson meg egyszer! | Posjetite me jednom!
 Itt van az én címem. | Ovo je moja adresa.
 Fogjuk? | Hoćemo
-Holnap | sutra
-Lát/Látni/nézd! | vidjeti
+| Magyarul holnap jelentése szógyökökkel magyarázható: hol-nap, tehát a következő idő, amikor van nap (hol volt, hol nem volt)
+| Esetleg itt is feltűnhet, hogy Bosnyákul hasonlót használnak: sutra elején érdekes ez a "su" és a "t", ami egy c is lehetett valaha...
+| sunce-ra például a Magyar nyelven teljesen megfelelő konstrukció, feltéve, hogy ismerném a sunce szót, mint napot: "napra"
+| ez majdnem annyi, hogy "holnapra" - csak más a nap megfelelő szava. A sunce nyilván Samas-ból ered, mint az ókorban ez közismert...
+Holnap | sutra (forrása talán sunce-ra ~ hol-nap???)
+Lát/Látni/nézd! | vidjeti (mint "figyelj" magyarul?)
 Látjuk egymást holnap? (~Fogjuk egymást holnap látni?) | Hoćemo li se sutra vidjeti?
 Sajnálom, ... |  Žao mi je, ...
 Már | već
